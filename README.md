@@ -3,9 +3,13 @@ bài toán về cái đồng hồ
 
 NỘI DUNG CÂU HỎI
 Một chiếc đồng hồ gồm ba kim: kim giờ, kim phút, kim giây với độ dài lần lượt là 10cm, 15cm, 20cm. Ba kim có chung một đầu gắn tại tâm đồng hồ, ba đầu còn lại chuyển động tạo thành một tam giác (có thể suy biến). Trong 12 tiếng từ 0h tới 12h cùng ngày, tỉ lệ thời gian mà tam giác này chứa tâm đồng hồ là bao nhiêu? Hãy đưa ra những đánh giá hợp lý cho giá trị này.
+![dongho1](https://user-images.githubusercontent.com/29473579/152984192-889f619b-461f-4c55-b6f7-87fa058379fe.jpg)
+
 
 1. Visualize cho bài toán:
-    https://editor.p5js.org/anthule2000/sketches/uISxg4XWi 
+    https://editor.p5js.org/anthule2000/sketches/uISxg4XWi
+    ![clock](https://user-images.githubusercontent.com/29473579/152984246-aefffe14-c10b-41c5-8236-f192711f4220.png)
+
 2. Giải thô sơ:
    Cách 1: lấy ra 10^6 trạng thái ngẫu nhiên của cái đồng hồ và lấy
    (số trường hợp tâm đồng hồ nằm trong tam giác)/10^6 là ra đc đáp số gần đúng.
