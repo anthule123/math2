@@ -22,7 +22,7 @@ Một chiếc đồng hồ gồm ba kim: kim giờ, kim phút, kim giây với �
    Kq: 0.249917
    
 3. Giải chính xác toán học
-4. 
+
    Để ý rằng nếu đồng hồ chuyển từ trạng thái "tâm in" sang "tâm out" và
    ngược lại thì tâm đồng hồ sẽ nằm trên đoạn thẳng nối 2 trong 3 kim giờ, phút, giây.
    
@@ -56,6 +56,7 @@ Một số thủ thuật được sử dụng trong bài toán:
    bằng cách so sánh diện tích tam giác MAB+MAC+MBC 
    với ABC nhưng cách giải này có thể có sai số lúc diện
    tích tam giác.
+   
    Cách 2: đây là cách giải được coi là tối ưu : cho 2 vector OA,OB.
    Kiểm tra xem hướng từ OA từ OB là ngược hay thuận chiều kim đồng hồ
    bằng công thức khá giống cách 1:
