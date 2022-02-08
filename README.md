@@ -20,6 +20,8 @@ Một chiếc đồng hồ gồm ba kim: kim giờ, kim phút, kim giây với �
    Cách 2: Chia đều 10^6 trạng thái từ 0h đến 12h thành 10^6 phần bằng nhau,
    rồi lấy (số trạng thái mà tâm đồng hồ nằm trong tam giác)/10^6 là ra đc đáp số gần đúng.
    Kq: 0.249917
+    https://editor.p5js.org/anthule2000/sketches/zpSm69v-4
+
    
 3. Giải chính xác toán học
 
