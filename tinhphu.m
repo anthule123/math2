@@ -1,7 +1,7 @@
 function y = tinhphu(phi)
    xtam = 250;ytam = 200;r=200;
-   r1 = r;
-   r2 = r;
+   r1 = r/2;
+   r2 = r*0.75;
    r3 = r;
    x1 = xtam + r1 * cosd(phi);
    y1 = ytam + r1 * sind(phi); 
