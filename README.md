@@ -79,8 +79,7 @@ Một số thủ thuật được sử dụng trong bài toán:
    The Coding Train là 1 kênh dạy code rất thú vị và có dạy JavaScript
    với p5.js 
    https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
-   Điểm khác biệt của khoá học này so với các khoá học code khác là
-   nó có nhiều chương trình vẽ hình, animation,... rất hợp với các
+   ,có nhiều chương trình vẽ hình, animation,... rất hợp với các
    visual learner.
    
    
