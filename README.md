@@ -49,7 +49,7 @@ Tác giả: Hoàng Anh Quân.
    hoặc toàn là "tâm out". Ta chỉ việc kiểm tra trạng thái (x1+x2)/2
    là sẽ xác định được.
    
-   Kết quả chính xác ra 6332386219007119/25332747903959040 xấp xỉ 
+   Kết quả chính xác ra 1977/7909 = 1/4-1/31636  xấp xỉ 
    0.24996839044.
 
 Một số thủ thuật được sử dụng trong bài toán:
